@@ -2,8 +2,8 @@
 
 🚀 Software Engineer (Software + ML) 
 
-I’m passionate about solving problems across **software, machine learning, and hardware**.  
-I enjoy building systems that are both **practical and scalable**, and I like experimenting with projects that combine my **instinct for hardware** with my software/ML focus.  
+I’m passionate about solving problems across **software and machine learning**.  
+I enjoy building systems that are both **practical and scalable**, and I like experimenting with projects that combine software/ML focus.  
 
 ---
 
