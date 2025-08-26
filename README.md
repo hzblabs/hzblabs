@@ -20,10 +20,5 @@ I enjoy building systems that are both **practical and scalable**, and I like ex
 
 ---
 
-## 📈 GitHub Stats
-![Hazeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzblabs&show_icons=true&theme=radical)  
-
----
-
 ## 📫 Get in Touch
 - 🌐 Portfolio: [hazeebalabi.com](https://hazeebalabi.com)  
