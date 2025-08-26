@@ -17,8 +17,3 @@ I enjoy building systems that are both **practical and scalable**, and I like ex
 - [**DSA Repo**](https://github.com/hzblabs/DSA-Repo): Solved Data Structures & Algorithms problems by topic with clean, well-documented Java solutions.  
 - [**REF Score Prediction Model**](https://github.com/hzblabs/REF-Score-prediction-model): Fine-tuned LLMs (BigBird) to classify academic research outputs into REF star ratings.  
 - [**Portfolio Website**](https://github.com/hzblabs/Portfolio-Website): My personal website [hazeebalabi.com](https://hazeebalabi.com).  
-
----
-
-## 📫 Get in Touch
-- 🌐 Portfolio: [hazeebalabi.com](https://hazeebalabi.com)  
