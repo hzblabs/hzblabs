@@ -1,6 +1,6 @@
 # Hi, I'm Hazeeb 👋  
 
-🚀 Software Engineer (Software + ML) 
+🚀 Software Engineer (Fullstack + ML) 
 
 I’m passionate about solving problems across **software and machine learning**.  
 I enjoy building systems that are both **practical and scalable**, and I like experimenting with projects that combine software/ML focus.  
