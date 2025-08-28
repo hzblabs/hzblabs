@@ -4,6 +4,7 @@
 
 I’m passionate about solving problems across **software and machine learning**.  
 I enjoy building systems that are both **practical and scalable**, and I like experimenting with projects that combine software/ML focus. 
+
 I am currently reading and applying **Hands-On Machine Learning with Scikit-Learn, Keras,and TensorFlow.**
 
 ---
