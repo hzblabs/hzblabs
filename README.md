@@ -3,7 +3,8 @@
 🚀 Software Engineer (Fullstack + ML) 
 
 I’m passionate about solving problems across **software and machine learning**.  
-I enjoy building systems that are both **practical and scalable**, and I like experimenting with projects that combine software/ML focus.  
+I enjoy building systems that are both **practical and scalable**, and I like experimenting with projects that combine software/ML focus. 
+I am currently reading and applying **Hands-On Machine Learning with Scikit-Learn, Keras,and TensorFlow.**
 
 ---
 
@@ -19,5 +20,3 @@ I enjoy building systems that are both **practical and scalable**, and I like ex
 - [**REF Score Prediction Model**](https://github.com/hzblabs/REF-Score-prediction-model): Fine-tuned LLMs (BigBird) to classify academic research outputs into REF star ratings.  
 - [hazeebalabi.com](https://hazeebalabi.com): My personal website.
 
----
-I am currently reading and applying **Hands-On Machine Learning with Scikit-Learn, Keras,and TensorFlow.**
